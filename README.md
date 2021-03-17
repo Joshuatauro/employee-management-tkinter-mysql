@@ -25,4 +25,4 @@ MYSQL
 ![image](https://user-images.githubusercontent.com/62158542/103617193-42fbc280-4f47-11eb-956e-70b4e8a57db8.png)
 
 
-### This is my project for CBSE grade XII board practicals.
+
